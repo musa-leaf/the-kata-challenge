@@ -16,7 +16,7 @@ A simple character copying utility that reads characters from a source and copie
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/musa-leaf/the-taka-challenge.git
+git clone https://github.com/musa-leaf/the-kata-challenge.git
 cd the-taka-challenge
 npm install
 ```
